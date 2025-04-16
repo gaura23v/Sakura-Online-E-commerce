@@ -32,3 +32,4 @@ Secure login and signup functionality.
 
 Orders and user data are stored in a MySQL database.
 
+![image](https://github.com/user-attachments/assets/273454e1-ce18-4704-befd-524f02d96088)
