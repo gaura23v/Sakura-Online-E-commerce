@@ -1,7 +1,7 @@
 <h1> 🌸 Sakura Online E-Commerce </h1>
 Sakura Online E-Commerce is a full-stack web application that provides a smooth and user-friendly shopping experience.
 
-🚀 Features
+<p>🚀 Features</p>
 👤 User Registration & Authentication
 
 🛍️ Product Listing with Details View
