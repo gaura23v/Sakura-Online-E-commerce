@@ -10,14 +10,14 @@ Sakura Online E-Commerce is a full-stack web application that provides a smooth 
 
 ✅ Cart-based and Single-product Checkout
 
-🛠️ Tech Stack
+<p>🛠️ Tech Stack</p>
 Frontend: HTML, CSS, JavaScript
 
 Backend: Java (JSP & Servlets)
 
 Database: MySQL
 
-📦 Functionality Overview
+<p>📦 Functionality Overview</p>
 Users can browse products on the listing page.
 
 View detailed information for each product.
