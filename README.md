@@ -50,6 +50,7 @@ Orders and user data are stored in a MySQL database.
 ![image](https://github.com/user-attachments/assets/4ebad26f-5aca-4055-b165-0878ecc92819)
 
 **Product Details Page**
+
 ![image](https://github.com/user-attachments/assets/135209a3-97fa-4637-87df-ffe9b1cfa726)
 
 **After Clicking on Buy-Now**
