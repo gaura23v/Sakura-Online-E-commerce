@@ -31,7 +31,9 @@ Add it to the cart for later checkout.
 Secure login and signup functionality.
 
 Orders and user data are stored in a MySQL database.
-
+p{
+font-size: 75;
+}
 **Welcome page**
 ![image](https://github.com/user-attachments/assets/273454e1-ce18-4704-befd-524f02d96088)
 
